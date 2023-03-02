@@ -5,6 +5,8 @@ Results of ORCA calculations are presented in folder "GLASS_db_results". Based o
 
 In Python script you need to asign you directory. Based on this code will clean your data from ORCA calculation.
 
+Result for each compound will be saved in GLASS_results directory and final result in file 'FINAL_ORCA_GLASS_results.csv'
+
 # Requirements
 - pandas
 - numpy
