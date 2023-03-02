@@ -1,0 +1,7 @@
+!MiniPrint
+!B3LYP 6-311++G(d,p) extremescf CPCM(water)
+%pal nprocs 30
+end
+
+# Coordinate type     Charge  Multiplicity
+* xyzfile 0 1 GLASS_137937.xyz
